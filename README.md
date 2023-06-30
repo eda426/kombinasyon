@@ -1,0 +1,2 @@
+# kombinasyon
+kombinasyn hesaplama
